@@ -2,6 +2,8 @@
 
 Hacer un git clone de la carpeta
 
+https://github.com/davidcanoteayuda/esp32cam-IA.git
+
 Abrir el archivo Wifi_ESP32cam.ino
 
 Añadir url en las preferencias -> añadir a boards --> https://espressif.github.io/arduino-esp32/package_esp32_index.json
